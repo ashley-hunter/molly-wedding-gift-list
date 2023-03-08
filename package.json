@@ -1,0 +1,25 @@
+{
+  "name": "wedding-gift-list.github.io",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wedding-gift-list/wedding-gift-list.github.io.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wedding-gift-list/wedding-gift-list.github.io/issues"
+  },
+  "homepage": "https://github.com/wedding-gift-list/wedding-gift-list.github.io#readme",
+  "dependencies": {
+    "prettier": "^2.8.4"
+  },
+  "devDependencies": {
+    "tailwindcss": "^3.2.7"
+  }
+}
